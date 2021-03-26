@@ -1,0 +1,24 @@
+{
+  "name": "training1",
+  "version": "1.0.0",
+  "description": "Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tazolomtadze/Training1.git"
+  },
+  "author": "TazoLomtadze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tazolomtadze/Training1/issues"
+  },
+  "homepage": "https://github.com/tazolomtadze/Training1#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  }
+}
